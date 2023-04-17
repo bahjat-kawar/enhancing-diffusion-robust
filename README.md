@@ -6,7 +6,7 @@ This is the official code repo for the TMLR paper "Enhancing Diffusion-Based Ima
 
 ## Pre-trained models
 
-Coming soon...
+Our trained model checkpoints and 50k ImageNet images for FID evaluation are available at [this Google Drive folder](https://drive.google.com/drive/folders/1lZAkLGf4V5F1hoQBdiY1814bHF3wkN4T?usp=sharing).
 
 ## Code instructions
 
